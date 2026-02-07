@@ -23,7 +23,8 @@ I am a self-taught programmer and a recent CS graduate from Salahadin University
 
 ### 📫 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/apollocked](https://www.linkedin.com/in/apollocked/)
-* **Email:** mahamadbarznji712@gmail.com
+* **Email:** mahamadbarznji712@gmail.com*
+* **Phone:** +964 751 272 5467*
 
 ---
 
