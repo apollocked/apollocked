@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammed Jameel
 
-<!--
-**apollocked/apollocked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Flutter Developer | Computer Science Graduate**
 
-Here are some ideas to get you started:
+I am a self-taught programmer and a recent CS graduate from Salahadin University. I focus on building clean, functional mobile applications using **Flutter** and **Firebase**. I love turning complex ideas into simple, user-friendly apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+* **🥗 NutriZham:** A trilingual nutrition & recipe app with cloud sync and RTL support.
+* **🏋️ Fitness Tracker:** A health app featuring BMR/Protein calculators and goal tracking.
+* **🛒 Mini Mart:** An e-commerce UI with a shopping cart and discount code system.
+
+---
+
+### 🛠️ Technical Toolbox
+* **Framework:** Flutter (Android & iOS)
+* **Language:** Dart
+* **Backend:** Firebase (Auth, Firestore)
+* **Design:** Material 3, Responsive UI, RTL Support (Kurdish/Arabic)
+
+---
+
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/apollocked](https://www.linkedin.com/in/apollocked/)
+* **Email:** mahamadbarznji712@gmail.com
+
+---
+
