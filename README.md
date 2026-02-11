@@ -1,30 +1,16 @@
-# 👋 Hi, I'm Muhammed Jameel
 
-**Flutter Developer | Computer Science Graduate**
+Typing SVG
+🛠️ Tech Stack
+Flutter Kotlin Android Dart
+Firebase Git Android Studio
 
-I am a self-taught programmer and a recent CS graduate from Salahadin University. I focus on building clean, functional mobile applications using **Flutter** and **Firebase**. I love turning complex ideas into simple, user-friendly apps.
+📊 GitHub Stats
+Apollo's GitHub statsTop Languages
 
----
+📫 Connect with Me
+LinkedIn Gmail
 
-### 🚀 Featured Projects
-* **🥗 NutriZham:** A trilingual nutrition & recipe app with cloud sync and RTL support.
-* **🏋️ Fitness Tracker:** A health app featuring BMR/Protein calculators and goal tracking.
-* **🛒 Mini Mart:** An e-commerce UI with a shopping cart and discount code system.
+Profile Views
 
----
 
-### 🛠️ Technical Toolbox
-* **Framework:** Flutter (Android & iOS)
-* **Language:** Dart
-* **Backend:** Firebase (Auth, Firestore)
-* **Design:** Material 3, Responsive UI, RTL Support (Kurdish/Arabic)
-
----
-
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/apollocked](https://www.linkedin.com/in/apollocked/)
-* **Email:** mahamadbarznji712@gmail.com*
-* **Phone:** +964 751 272 5467*
-
----
 
