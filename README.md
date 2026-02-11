@@ -34,13 +34,7 @@ Here is the raw code. Copy everything inside the box below and paste it directly
   </a>
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apollocked&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true" alt="Apollo's GitHub stats" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apollocked&layout=compact&langs_count=8&theme=react&hide_border=true" alt="Top Languages" height="180em"/>
-</p>
 
 ---
 
