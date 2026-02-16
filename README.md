@@ -1,6 +1,4 @@
 
-Here is the raw code. Copy everything inside the box below and paste it directly into your `README.md` file.
-
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Apollo;Flutter+%26+Kotlin+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
