@@ -3,8 +3,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Apollo;Flutter+%26+Kotlin+Developer;Mobile+App+Enthusiast" alt="Typing SVG" />
 </div>
-
-
+<div align="center">
+<figure>
+  <embed src="https://wakatime.com/share/@948b5677-de47-42e9-9502-a46269fd8798/957b216c-e215-4ba1-a9ac-88d3fe092790.svg">
+</embed>
+</figure>
+</div>
 
 ### 🛠️ Tech Stack
 <p align="center">
