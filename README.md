@@ -46,5 +46,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=apollocked&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://wakatime.com/@948b5677-de47-42e9-9502-a46269fd8798"><img src="https://wakatime.com/badge/user/948b5677-de47-42e9-9502-a46269fd8798.svg" alt="Total time coded since Jan 19 2026" /></a>
 </p>
 
