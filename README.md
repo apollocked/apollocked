@@ -30,8 +30,23 @@
   </a>
 </p>
 
+## 📱 My Apps
+
+- [Plant Care 🪴](https://github.com/apollocked/plant-care-mock-app) - Track & Reminders App
+- [Fit Tracker 💪🏻](https://github.com/apollocked/fitness-tracker-app) - Fitness Monitoring App
+- [Trip Recorder 📸](https://github.com/apollocked/Trip_recorder_app) - Recorder & Gallery App 
+- [Mini Mart 🛒](https://github.com/apollocked/bnchina-Mart-application) - E-commerce solution App
+- [NutriZham 🍴](https://github.com/apollocked/NutriZham) - Nutrition & Recipe App
+- [Kurdistan Tour 🛄](https://github.com/apollocked/tour-app) - Guiding & Cultural App 
+- [MyChat 💬](https://github.com/apollocked/Chat-app) - Real Time Chat & communication App
+- [Kurdistan Weather 🌤️](https://github.com/apollocked/Weather-app) - Weather Forecast App
+- [Todo 📝](https://github.com/apollocked/todo_app_flutter) - Simple TODO App
+- [Drawing 🖼️](https://github.com/apollocked/Drawing-App) - Sketch And Designing App
+- [Quiz ❔](https://github.com/apollocked/Quiz-app) - Quiz Game App
+- [Note 📓](https://github.com/apollocked/Note-App) - Task Managment App
 
 
+  
 ---
 
 ### 📫 Connect with Me
