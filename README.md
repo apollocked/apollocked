@@ -30,8 +30,8 @@
   </a>
 </p>
 
-## 📱 My Apps
-
+## 📱 My Apps 
+- [My Movies 🎬](https://github.com/apollocked/My-Movie-App) - trailer & watchlist App
 - [Plant Care 🪴](https://github.com/apollocked/plant-care-mock-app) - Track & Reminders App
 - [Fit Tracker 💪🏻](https://github.com/apollocked/fitness-tracker-app) - Fitness Monitoring App
 - [Trip Recorder 📸](https://github.com/apollocked/Trip_recorder_app) - Recorder & Gallery App 
