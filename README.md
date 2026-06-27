@@ -96,8 +96,8 @@
 ### Flutter Apps 
 - [My Movies 🎬](https://github.com/apollocked/My-Movie-App) - trailer & watchlist App
 - [Plant Care 🪴](https://github.com/apollocked/plant-care-mock-app) - Track & Reminders App - [Download on Google Play](https://play.google.com/store/apps/details?id=com.apollo.plant_care)
-- [Fit Tracker 💪🏻](https://github.com/apollocked/fitness-tracker-app) - Fitness Monitoring App
-- [Trip Recorder 📸](https://github.com/apollocked/Trip_recorder_app) - Recorder & Gallery App 
+- [Fit Tracker 💪🏻](https://github.com/apollocked/fitness-tracker-app) - Fitness Monitoring App - Coming Soon...
+- [Trip Recorder 📸](https://github.com/apollocked/Trip_recorder_app) - Recorder & Gallery App - Coming Soon...
 - [Mini Mart 🛒](https://github.com/apollocked/bnchina-Mart-application) - E-commerce solution App
 - [NutriZham 🍴](https://github.com/apollocked/NutriZham) - Nutrition & Recipe App
 - [Kurdistan Tour 🛄](https://github.com/apollocked/tour-app) - Guiding & Cultural App 
