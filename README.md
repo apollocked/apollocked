@@ -99,7 +99,7 @@
 - [Fit Tracker 💪🏻](https://github.com/apollocked/fitness-tracker-app) - Fitness Monitoring App - [Download on Google Play](https://play.google.com/store/apps/details?id=com.apollo.fit_tracker)
 - [Trip Recorder 📸](https://github.com/apollocked/Trip_recorder_app) - Recorder & Gallery App - Coming Soon on Google play
 - [Mini Mart 🛒](https://github.com/apollocked/bnchina-Mart-application) - E-commerce solution App
-- [NutriZham 🍴](https://github.com/apollocked/NutriZham) - Nutrition & Recipe App
+- [NutriZham 🍴](https://github.com/apollocked/NutriZham) - Nutrition & Recipe App - Coming Soon on Google play
 - [Kurdistan Tour 🛄](https://github.com/apollocked/tour-app) - Guiding & Cultural App 
 - [MyChat 💬](https://github.com/apollocked/Chat-app) - Real Time Chat & communication App
 - [Todo 📝](https://github.com/apollocked/todo_app_flutter) - Simple TODO App
