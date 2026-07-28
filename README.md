@@ -94,7 +94,7 @@
 
 ## 📱 Experience with Building Apps 
 ### Flutter Apps 
-- [My Movies 🎬](https://github.com/apollocked/My-Movie-App) - trailer & watchlist App - Coming Soon on Google play
+- [My Movies 🎬](https://github.com/apollocked/My-Movie-App) - trailer & watchlist App - [Download on Google play](https://play.google.com/store/apps/details?id=com.apollo.my_movies) 
 - [Plant Care 🪴](https://github.com/apollocked/plant-care-mock-app) - Track & Reminders App - [Download on Google Play](https://play.google.com/store/apps/details?id=com.apollo.plant_care)
 - [Fit Tracker 💪🏻](https://github.com/apollocked/fitness-tracker-app) - Fitness Monitoring App - [Download on Google Play](https://play.google.com/store/apps/details?id=com.apollo.fit_tracker)
 - [Trip Recorder 📸](https://github.com/apollocked/Trip_recorder_app) - Recorder & Gallery App - [Download on Google Play](https://play.google.com/store/apps/details?id=com.apollo.trip_recorder)
